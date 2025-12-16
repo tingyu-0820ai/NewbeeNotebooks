@@ -15,4 +15,4 @@ Notebooks of iFLYTEK&amp;GZIST AI Industry-Academia Collaborative College
 - WenRuiWen
 - Lin Zemin
 - Zhong Jiayi
-- shitanqi
+- Shi Tanqi
